@@ -1,0 +1,13 @@
+C:\Users\mathe\Documents\SistemasC#\Aula42\Aula42\obj\Debug\netcoreapp3.1\Aula42.csprojAssemblyReference.cache
+C:\Users\mathe\Documents\SistemasC#\Aula42\Aula42\obj\Debug\netcoreapp3.1\Aula42.AssemblyInfoInputs.cache
+C:\Users\mathe\Documents\SistemasC#\Aula42\Aula42\obj\Debug\netcoreapp3.1\Aula42.AssemblyInfo.cs
+C:\Users\mathe\Documents\SistemasC#\Aula42\Aula42\obj\Debug\netcoreapp3.1\Aula42.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Documents\SistemasC#\Aula42\Aula42\bin\Debug\netcoreapp3.1\Aula42.exe
+C:\Users\mathe\Documents\SistemasC#\Aula42\Aula42\bin\Debug\netcoreapp3.1\Aula42.deps.json
+C:\Users\mathe\Documents\SistemasC#\Aula42\Aula42\bin\Debug\netcoreapp3.1\Aula42.runtimeconfig.json
+C:\Users\mathe\Documents\SistemasC#\Aula42\Aula42\bin\Debug\netcoreapp3.1\Aula42.runtimeconfig.dev.json
+C:\Users\mathe\Documents\SistemasC#\Aula42\Aula42\bin\Debug\netcoreapp3.1\Aula42.dll
+C:\Users\mathe\Documents\SistemasC#\Aula42\Aula42\bin\Debug\netcoreapp3.1\Aula42.pdb
+C:\Users\mathe\Documents\SistemasC#\Aula42\Aula42\obj\Debug\netcoreapp3.1\Aula42.dll
+C:\Users\mathe\Documents\SistemasC#\Aula42\Aula42\obj\Debug\netcoreapp3.1\Aula42.pdb
+C:\Users\mathe\Documents\SistemasC#\Aula42\Aula42\obj\Debug\netcoreapp3.1\Aula42.genruntimeconfig.cache
